@@ -1,0 +1,5 @@
+C:\Users\fcozzani\source\repos\pruebaAuto\pruebaAuto\bin\Release\net6.0-windows\app.publish\pruebaAuto.exe
+C:\Users\fcozzani\source\repos\pruebaAuto\pruebaAuto\bin\Release\net6.0-windows\app.publish\pruebaAuto.dll
+C:\Users\fcozzani\source\repos\pruebaAuto\pruebaAuto\bin\Release\net6.0-windows\app.publish\pruebaAuto.deps.json
+C:\Users\fcozzani\source\repos\pruebaAuto\pruebaAuto\bin\Release\net6.0-windows\app.publish\pruebaAuto.runtimeconfig.json
+C:\Users\fcozzani\source\repos\pruebaAuto\pruebaAuto\bin\Release\net6.0-windows\app.publish\pruebaAuto.pdb
