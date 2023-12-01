@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fcozzani\\source\\repos\\pruebaAuto\\pruebaAuto\\pruebaAuto.csproj": {}
+    "C:\\Users\\fcozzani\\source\\repos\\pruebaAuto\\coconeitor123.github.io\\pruebaAuto\\pruebaAuto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fcozzani\\source\\repos\\pruebaAuto\\pruebaAuto\\pruebaAuto.csproj": {
+    "C:\\Users\\fcozzani\\source\\repos\\pruebaAuto\\coconeitor123.github.io\\pruebaAuto\\pruebaAuto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fcozzani\\source\\repos\\pruebaAuto\\pruebaAuto\\pruebaAuto.csproj",
+        "projectUniqueName": "C:\\Users\\fcozzani\\source\\repos\\pruebaAuto\\coconeitor123.github.io\\pruebaAuto\\pruebaAuto.csproj",
         "projectName": "pruebaAuto",
-        "projectPath": "C:\\Users\\fcozzani\\source\\repos\\pruebaAuto\\pruebaAuto\\pruebaAuto.csproj",
+        "projectPath": "C:\\Users\\fcozzani\\source\\repos\\pruebaAuto\\coconeitor123.github.io\\pruebaAuto\\pruebaAuto.csproj",
         "packagesPath": "C:\\Users\\fcozzani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fcozzani\\source\\repos\\pruebaAuto\\pruebaAuto\\obj\\",
+        "outputPath": "C:\\Users\\fcozzani\\source\\repos\\pruebaAuto\\coconeitor123.github.io\\pruebaAuto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
